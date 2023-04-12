@@ -6,7 +6,7 @@
 		<groupId>6d59e4b8-d9b0-4666-a0d1-9a471019bb52</groupId>
 		<artifactId>solutions-parent-pom</artifactId>
 		<version>1.0.1</version>
-		<relativePath/>
+		<relativePath>../parent-pom/pom.xml</relativePath>
 	</parent>
 	<groupId>com.mycompany</groupId>
 	<artifactId>check-in-papi-app</artifactId>
